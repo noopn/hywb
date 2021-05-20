@@ -1,0 +1,15 @@
+{
+  "name": "hywb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "repository": "https://github.com/songhua-river/hywb.git",
+  "author": "sunzhiqi <sunzhiqi@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "live-server": "^1.2.1"
+  }
+}
