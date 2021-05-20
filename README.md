@@ -13,4 +13,4 @@ Work Work Hard
 
 执行npm install安装依赖
 
-运行npm start启动开发服务器
+运行npm run dev启动开发服务器
